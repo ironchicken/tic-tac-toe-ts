@@ -1,0 +1,44 @@
+.square {
+    position:absolute;
+    height:50px;
+    width:50px;
+    background:#FFFFFF;
+    border:3px solid #000000;
+}
+
+#square-0 {
+    left:0px;
+    top:0px;
+}
+#square-1 {
+    left:50px;
+    top:0px;
+}
+#square-2 {
+    left:100px;
+    top:0px;
+}
+#square-3 {
+    left:0px;
+    top:50px;
+}
+#square-4 {
+    left:50px;
+    top:50px;
+}
+#square-5 {
+    left:100px;
+    top:50px;
+}
+#square-6 {
+    left:0px;
+    top:100px;
+}
+#square-7 {
+    left:50px;
+    top:100px;
+}
+#square-8 {
+    left:100px;
+    top:100px;
+}
